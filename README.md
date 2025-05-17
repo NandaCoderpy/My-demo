@@ -1,2 +1,2 @@
 # My-demo
-This is my first Gut Repository.
+This is my first Git Repository.
